@@ -57,29 +57,6 @@ Sou proativo, dedicado e estou sempre estudando para entregar resultados de qual
 
 ---
 
-## 🚀 Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗺️ Acre Sem Roteiro</h3>
-      <p>Aplicação web interativa em JavaScript com temática regional do Acre.</p>
-      <a href="https://acresemroteiro.vercel.app"><img src="https://img.shields.io/badge/Ver%20online-2563eb?style=flat-square&logo=vercel&logoColor=white" /></a>
-      <a href="https://github.com/camargotorres253-crypto/acresemroteiro"><img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💅 Intense — Studio de Beleza</h3>
-      <p>Site institucional responsivo para studio de beleza em Rio Branco.</p>
-      <a href="https://intenseac.vercel.app"><img src="https://img.shields.io/badge/Ver%20online-2563eb?style=flat-square&logo=vercel&logoColor=white" /></a>
-      <a href="https://github.com/camargotorres253-crypto/intense.ac"><img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
-> Também desenvolvo **cardápios digitais com painel administrativo** para restaurantes e lanchonetes, além de **sites institucionais** para empresas locais.
-
----
-
 ## 📜 Certificações
 
 | Certificado | Instituição | Ano |
